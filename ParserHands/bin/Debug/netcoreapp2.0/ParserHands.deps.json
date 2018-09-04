@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ParserHands/1.0.0": {
+        "dependencies": {
+          "HandHistories.Objects": "1.0.0",
+          "HandHistories.Parser": "1.0.0"
+        },
+        "runtime": {
+          "ParserHands.dll": {}
+        }
+      },
+      "HandHistories.Objects/1.0.0": {
+        "runtime": {
+          "HandHistories.Objects.dll": {}
+        }
+      },
+      "HandHistories.Parser/1.0.0": {
+        "dependencies": {
+          "HandHistories.Objects": "1.0.0"
+        },
+        "runtime": {
+          "HandHistories.Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParserHands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HandHistories.Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HandHistories.Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

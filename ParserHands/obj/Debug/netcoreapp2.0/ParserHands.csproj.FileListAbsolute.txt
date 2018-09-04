@@ -1,0 +1,15 @@
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/ParserHands.deps.json
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/ParserHands.runtimeconfig.json
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/ParserHands.runtimeconfig.dev.json
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/ParserHands.dll
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/ParserHands.pdb
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.csprojResolveAssemblyReference.cache
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.csproj.CoreCompileInputs.cache
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.AssemblyInfoInputs.cache
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.AssemblyInfo.cs
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.dll
+/Users/tdidukh/Projects/ParserHands/ParserHands/obj/Debug/netcoreapp2.0/ParserHands.pdb
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/HandHistories.Objects.dll
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/HandHistories.Parser.dll
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/HandHistories.Objects.pdb
+/Users/tdidukh/Projects/ParserHands/ParserHands/bin/Debug/netcoreapp2.0/HandHistories.Parser.pdb

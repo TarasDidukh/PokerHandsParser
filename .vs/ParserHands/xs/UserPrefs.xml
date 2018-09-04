@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9F1D6035-AA18-453E-BB31-8E538512C0BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HandHistories.Parser/Parsers/FastParser/Base/HandHistoryParserFastImpl.cs">
+    <Files>
+      <File FileName="HandHistories.Parser/Parsers/FastParser/PokerStars/PokerStarsFastParserImpl.cs" Line="147" Column="1" />
+      <File FileName="ParserHands/Program.cs" Line="29" Column="1" />
+      <File FileName="HandHistories.Parser/Parsers/FastParser/Base/HandHistoryParserFastImpl.cs" Line="232" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ParserHands PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tdidukh/Projects/ParserHands/ParserHands/Program.cs" relfile="ParserHands/Program.cs" line="27" column="1" />
+      <Breakpoint file="/Users/tdidukh/Projects/ParserHands/ParserHands/Program.cs" relfile="ParserHands/Program.cs" line="29" column="1" />
+      <Breakpoint file="/Users/tdidukh/Projects/ParserHands/HandHistories.Parser/Parsers/FastParser/PokerStars/PokerStarsFastParserImpl.cs" relfile="HandHistories.Parser/Parsers/FastParser/PokerStars/PokerStarsFastParserImpl.cs" line="148" column="1" />
+      <Breakpoint file="/Users/tdidukh/Projects/ParserHands/HandHistories.Parser/Parsers/FastParser/PokerStars/PokerStarsFastParserImpl.cs" relfile="HandHistories.Parser/Parsers/FastParser/PokerStars/PokerStarsFastParserImpl.cs" line="146" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

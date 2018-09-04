@@ -1,0 +1,48 @@
+PokerStars Hand #190622295229:  Hold'em No Limit (50/100) - 2018/09/03 21:56:41 EET [2018/09/03 14:56:41 ET]
+Table 'Askania XI' 6-max (Play Money) Seat #2 is the button
+Seat 1: Botanichok (10000 in chips) 
+Seat 2: belfragor (16183 in chips) 
+Seat 5: Mike Richman (40225 in chips) 
+Seat 6: Rica2Pri (9750 in chips) 
+Mike Richman: posts small blind 50
+Rica2Pri: posts big blind 100
+Botanichok: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Botanichok [8c Ad]
+caxias leaves the table
+Botanichok: raises 800 to 900
+belfragor: calls 900
+Mike Richman: folds 
+Rica2Pri: calls 800
+*** FLOP *** [Jc As Ts]
+Rica2Pri: bets 100
+Botanichok: raises 839 to 939
+belfragor: calls 939
+Rica2Pri: calls 839
+*** TURN *** [Jc As Ts] [5c]
+Rica2Pri: bets 100
+Botanichok: raises 1638 to 1738
+belfragor: folds 
+Rica2Pri: calls 1638
+*** RIVER *** [Jc As Ts 5c] [4h]
+Rica2Pri: bets 100
+Botanichok: raises 1900 to 2000
+vsbayer66 joins the table at seat #3 
+Rica2Pri: raises 1900 to 3900
+Botanichok: raises 2523 to 6423 and is all-in
+Rica2Pri: calls 2273 and is all-in
+Uncalled bet (250) returned to Botanichok
+*** SHOW DOWN ***
+Botanichok: shows [8c Ad] (a pair of Aces)
+Rica2Pri: shows [Jd Kh] (a pair of Jacks)
+Botanichok collected 20213 from pot
+*** SUMMARY ***
+Total pot 21389 | Rake 1176 
+Board [Jc As Ts 5c 4h]
+Seat 1: Botanichok showed [8c Ad] and won (20213) with a pair of Aces
+Seat 2: belfragor (button) folded on the Turn
+Seat 5: Mike Richman (small blind) folded before Flop
+Seat 6: Rica2Pri (big blind) showed [Jd Kh] and lost with a pair of Jacks
+
+
+

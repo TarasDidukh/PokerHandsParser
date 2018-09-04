@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserHands", "ParserHands\ParserHands.csproj", "{9F1D6035-AA18-453E-BB31-8E538512C0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandHistories.Objects", "HandHistories.Objects\HandHistories.Objects.csproj", "{9452F48A-FA16-4A75-8979-593D27FE5A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandHistories.Parser", "HandHistories.Parser\HandHistories.Parser.csproj", "{DA5A38A5-E130-4FD3-A764-3CFECDD138BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1D6035-AA18-453E-BB31-8E538512C0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1D6035-AA18-453E-BB31-8E538512C0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1D6035-AA18-453E-BB31-8E538512C0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1D6035-AA18-453E-BB31-8E538512C0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9452F48A-FA16-4A75-8979-593D27FE5A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9452F48A-FA16-4A75-8979-593D27FE5A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9452F48A-FA16-4A75-8979-593D27FE5A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9452F48A-FA16-4A75-8979-593D27FE5A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5A38A5-E130-4FD3-A764-3CFECDD138BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5A38A5-E130-4FD3-A764-3CFECDD138BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5A38A5-E130-4FD3-A764-3CFECDD138BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5A38A5-E130-4FD3-A764-3CFECDD138BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/bin/Debug/netstandard2.0/HandHistories.Objects.deps.json
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/bin/Debug/netstandard2.0/HandHistories.Objects.dll
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/bin/Debug/netstandard2.0/HandHistories.Objects.pdb
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.csprojResolveAssemblyReference.cache
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.csproj.CoreCompileInputs.cache
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.AssemblyInfoInputs.cache
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.AssemblyInfo.cs
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.dll
+/Users/tdidukh/Projects/ParserHands/HandHistories.Objects/obj/Debug/netstandard2.0/HandHistories.Objects.pdb
